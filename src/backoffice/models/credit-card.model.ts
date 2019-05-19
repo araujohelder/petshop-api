@@ -4,6 +4,6 @@ export class CreditCard {
         // tslint:disable-next-line:variable-name
         public number: string,
         public expiration: string,
-    ){}
+    ) {}
 
 }
